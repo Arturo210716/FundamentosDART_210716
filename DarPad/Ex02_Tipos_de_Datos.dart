@@ -18,7 +18,4 @@ void main() {
     Imagenes: $sprites
   """);
   
-  
-  
-  
 }
