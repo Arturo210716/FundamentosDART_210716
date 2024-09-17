@@ -6,7 +6,7 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil integra
 ## HISTORIAL DE PRACTICAS
 |No.|Nombre|Potenciador|Estatus|
 |--|--|--|--|
-|1|Metodologia de Evaluación de la Asignatura|1|Finalizada|
+|1|Metodologìa de Evaluación de la Asignatura|1|Finalizada|
 |2|Instalacion y Configuración del entorno de Desarrollo de Flutter/Dart|23|Activa|
 |3|Hola Mundo desde DART|Por definir|Activa|
 
