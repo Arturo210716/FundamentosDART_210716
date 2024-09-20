@@ -31,7 +31,7 @@ void main() {
   print("Ejemplo de un ITERABLE: $numeroAlreves");
   print("Confirmamos el tipo de dato para numeros que es: ${numeros.runtimeType}");
   print("De igual manera podemos transformar una LIST en ITERABLE y viceversa");
-  print("Convertimos el ITERABLE  a LISTA suando .toList(): ${numeroAlreves.toList()} y revificamos si tipo de dato ${numeroAlreves.toList().runtimeType}");
+  print("Convertimos el ITERABLE a LISTA usando .toList(): ${numeroAlreves.toList()} y revificamos si tipo de dato ${numeroAlreves.toList().runtimeType}");
 
   //Conjunto de datos (SET)
   //Un SET es una estructura de datos utilizada por DART, que simplifica los elementos eliminando los duplicados
