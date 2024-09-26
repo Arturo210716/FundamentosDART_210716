@@ -64,9 +64,6 @@ void main() {
     amountCarList: 2468.12,
     buyerName: "Alex"));
 
-
-
-
 }
 
 
