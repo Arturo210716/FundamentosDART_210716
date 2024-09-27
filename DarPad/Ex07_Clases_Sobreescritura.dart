@@ -43,7 +43,6 @@ class Hero
     
 }
 //Clase con propiedades no proporcionales y nombradas
-    
 class Team
 {
     String name;
