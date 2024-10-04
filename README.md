@@ -15,7 +15,8 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil integra
 |7|Listas, Iterables y Conjunto de datos|9|Finalizada|
 |8|Funciones y Parámetros|11|Finalizada|
 |9|Clases y sobreescritura de métodos nativos|9|Finalizada|
-|10|Constructores Nombrados|8|Activa|
+|10|Constructores Nombrados|8|Finalizada|
+|11|Getters (Lectura Controlada) y Setters (Modificaciòn Controlada)|9|Activa|
 
 
 
