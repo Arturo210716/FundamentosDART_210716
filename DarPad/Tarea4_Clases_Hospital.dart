@@ -200,3 +200,4 @@ void main() {
   print('Lista de pacientes después de la eliminación:');
   sistema.listarPacientes().forEach((paciente) => print(paciente));
 }
+
