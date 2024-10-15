@@ -25,6 +25,7 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil integra
 |16|Async Await|Por Definir|Activa|
 |17|Try Catch On Finally|Por Definir|Activa|
 |18|Streams|Por Definir|Activa|
+|19|Streams Await|Por Definir|Activa|
 
 
 
